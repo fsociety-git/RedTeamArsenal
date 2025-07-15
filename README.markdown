@@ -11,8 +11,8 @@ A modular Python-based framework for advanced penetration testing. Features incl
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/advanced-penetration-testing-toolkit.git
-cd advanced-penetration-testing-toolkit
+git clone https://github.com/fsociety-git/RedTeamArsenal.git
+cd RedTeamArsenal
 pip install -r requirements.txt
 ```
 
